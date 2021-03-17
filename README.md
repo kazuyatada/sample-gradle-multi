@@ -44,3 +44,5 @@ Get more help with your project: https://docs.gradle.org/6.8.3/samples/sample_bu
 BUILD SUCCESSFUL in 14s
 2 actionable tasks: 1 executed, 1 up-to-date
 ```
+
+After that, I'm deliberately lowering the version of the library it depends on to see if Dependabot works.
